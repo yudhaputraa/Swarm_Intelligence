@@ -1,0 +1,6 @@
+# Convolutional Neural Network & CNN
+Convolutional Neural Network (CNN) adalah jenis jaringan saraf buatan yang dirancang khusus untuk mengatasi masalah pengenalan pola dalam data grid, seperti gambar dan video. CNN menggunakan operasi konvolusi untuk memproses data secara lokal, memungkinkan ekstraksi fitur-fitur penting dari data visual.
+
+Struktur utama dari CNN terdiri dari lapisan-lapisan konvolusi, lapisan aktivasi non-linear (seperti ReLU), dan lapisan pooling untuk mereduksi ukuran representasi fitur. Konvolusi digunakan untuk menemukan pola lokal, sedangkan pooling membantu mengurangi dimensi data dan mempertahankan fitur utama. Akhirnya, fitur-fitur yang diekstraksi tersebut dihubungkan ke lapisan-lapisan fully connected untuk klasifikasi atau regresi.
+
+CNN telah mencapai hasil luar biasa dalam bidang computer vision, termasuk dalam pengenalan objek, deteksi wajah, klasifikasi gambar, segmentasi, dan berbagai tugas lain yang melibatkan data visual. Keunggulan utama CNN adalah kemampuannya untuk secara otomatis mempelajari fitur-fitur yang relevan dari data tanpa memerlukan ekstraksi fitur manual, membuatnya menjadi salah satu algoritma yang paling efektif dalam pengolahan gambar dan video.
