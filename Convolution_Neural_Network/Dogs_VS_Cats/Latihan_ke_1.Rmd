@@ -13,8 +13,13 @@ Menentukan lokasi dataset.
 train_directory <- "/Data/train"
 validation_directory <- "/Data/validation"
 ```
-Tentukan ukuran tinggi dan lebar gambar
+Tentukan ukuran tinggi dan lebar gambar.
 ```{r}
 img_width <- 150
 img_height <- 150
+```
+Tentukan jumblah training/Pengulangan yang akan dilakukan.
+```{r}
+batch_size <- 32
+epoch <- 30
 ```
