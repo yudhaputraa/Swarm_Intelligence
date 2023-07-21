@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+library(keras)
+```
+Menentukan lokasi dataset.
+```{r}
+train_directory <- "/Data/train"
+validation_directory <- "/Data/validation"
+```
