@@ -1,5 +1,5 @@
 # Neural Network
-Neural network (jaringan saraf tiruan) adalah sebuah model matematis yang terinspirasi dari cara kerja sistem saraf pada otak manusia. Neural network digunakan untuk melakukan tugas-tugas seperti pengenalan pola, klasifikasi, prediksi, dan pengambilan keputusan berdasarkan data masukan.
+Neural network Atau Jaringan Saraf Tiruan(JST) adalah sebuah model matematis yang terinspirasi dari cara kerja sistem saraf pada otak manusia. Neural network digunakan untuk melakukan tugas-tugas seperti pengenalan pola, klasifikasi, prediksi, dan pengambilan keputusan berdasarkan data masukan.
 
 Secara umum, neural network terdiri dari banyak sekali "neuron" atau simpul, yang saling terhubung satu sama lain dan membentuk lapisan-lapisan (layer). Setiap neuron memiliki beberapa input dan satu output, yang dihubungkan oleh "bobot" atau parameter yang dapat diubah saat proses pelatihan. Input yang diberikan pada neuron diolah dengan menggunakan fungsi aktivasi, yang menghasilkan output yang kemudian menjadi input bagi neuron di layer selanjutnya.
 
