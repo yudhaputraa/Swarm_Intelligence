@@ -28,3 +28,19 @@ Beberapa algoritma dalam swarm intelligence yang populer adalah:
 11. Fireworks Algorithm: Algoritma ini terinspirasi oleh perilaku kembang api dalam perayaan kembang api. Algoritma ini menggunakan ledakan dan ledakan tambahan sebagai metode eksplorasi dan eksploitasi dalam pencarian solusi.
 
 Setiap algoritma ini memiliki pendekatan dan mekanisme yang unik, namun semuanya berbagi prinsip dasar swarm intelligence, yaitu kolaborasi dan interaksi individu untuk mencapai tujuan kelompok. Algoritma-algoritma tersebut digunakan dalam berbagai bidang seperti optimisasi, pemodelan dinamika populasi, pengelompokan data, dan optimisasi parameter.
+
+# Catatan
+
+- Ini adalah hasil kerja sebuah sistem yg sangat pintar (smart), yaitu sistem pd tubuh manusia yg sangat cepat dalam mrespons gangguan. Ada gangguan (nyamuk yg menggigit), ada feedback (umpan balik berupa rasa sakit), ada pengolah feedback (processor, otak) yg berhasil menentukan posisi nyamuk menggigit, ada actuator yaitu respons yg harus dilakukan dan ada luaran(output) yaitu rasa sakit atau gatal hilang.
+
+- Disiplin ilmu ini berfokus pada perilaku kolektif binatang yang merupakan hasil dari interaksi lokal antara individu-individu yang satu dengan yang lain dan juga dengan lingkungannya.
+
+- Perilaku alam yang cerdas sering kita baca melalui peristiwa, perilaku tumbuhan yang cerdas sering membuat kita merenung, dan perilaku hewan yang cerdas dapat kita ambil manfaatnya untuk memperlancar dan mempercepat tujuan manusia.
+
+- Fenomena ini yang sering memaksa manusia untuk berpikir keras untuk membuat sebuah kecerdasan tiruan (Artificial Intelligence/AI, Computational Intelligence) dari hewan, walaupun tidak sama persis. Tiruan adalah bukan asli, dan tiruan adalah tidak sama dengan yang asli, tetapi manusia merasa tertantang dan membutuhkan.
+
+- Binatang atau mikroorganisme yang memiliki kecerdasan atau kemampuan berpikir dan bertindak dapat diadopsi kehebatannya.
+
+- Tujuan Al bukan untuk menggantikan sesuatu ditiru secara keseluruhan, tetapi mencari bentuk sistem kerja yang efisien untuk fungsi tertentu, sehingga manusia yang selalu dihadapkan pada banyak kesibukan dan aktivitas dapat bekerja secara optimal.
+
+- Tujuan utama penggunaan Al pada penyelesaian pekerjaan pada manusia adalah memperoleh hasil kinerja optimal, yaitu waktu cepat dan hasil maksimal, atau waktu cepat dengan kesalahan minimal, sehingga Al sangat dibutuhkan untuk mampu berinteraksi (high adaptability) dengan lingkungan secara cepat
