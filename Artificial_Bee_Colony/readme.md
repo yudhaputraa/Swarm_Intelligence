@@ -1,3 +1,4 @@
+## Artificial Bee Colony (ABC)
 Artificial Bee Colony (ABC) adalah algoritma optimisasi yang terinspirasi oleh perilaku lebah dalam mencari makanan. Algoritma ini termasuk dalam kelompok algoritma metaheuristik yang digunakan untuk menyelesaikan masalah optimisasi. ABC pertama kali diperkenalkan oleh Dervis Karaboga pada tahun 2005.
 
 Konsep dasar dari ABC adalah mensimulasikan perilaku lebah dalam mencari makanan dalam koloni lebah. Proses pencarian dalam ABC melibatkan tiga jenis lebah imajiner yang berperan dalam menjelajahi ruang pencarian:
